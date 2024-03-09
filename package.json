@@ -1,6 +1,6 @@
 { 
-  "name": "crypto",
-  "id": "crypto",
+  "name": "@rinaudokasia/manage",
+  "id": "crypto@rinaudokasia/manage",
   "version": "0.0.3",
   "description": "JavaScript implementations of standard and secure cryptographic algorithms.",
   "keywords": [ "crypto", "md5", "sha1" ],
